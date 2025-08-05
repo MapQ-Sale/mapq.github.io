@@ -1,2 +1,2 @@
-# mapq-sale.github.io
-mapq-sale
+# mapq.github.io
+mapq
